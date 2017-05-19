@@ -1,0 +1,13 @@
+/* CSS Document */
+body,ul,ol,h3{
+				margin:0px;
+				padding:0px;
+			}
+			body{
+				background:#DAEEFF;
+				
+			}
+			#container{
+				width:1000px;
+				margin:0px auto;
+			}
